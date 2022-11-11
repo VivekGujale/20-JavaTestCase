@@ -1,7 +1,6 @@
 package org.example.UserRegistrationUC;
 
 
-import org.example.UserRegistrationUC7;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
